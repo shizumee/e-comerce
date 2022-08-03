@@ -1,3 +1,3 @@
-# Ecomerce
+# E-comerce
 
-Bootcamp Dio-Santander Full Stack Developer.
+Bootcamp Dio - Santander Bootcamp Fullstack Developer
